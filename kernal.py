@@ -3,7 +3,7 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 
-import src.util as util
+import util
 
 
 def initial_state():
